@@ -1,6 +1,6 @@
 ---
 title: Ponte a la moda WARA
-subtitle: En esta cuarenten puedes protegerte y seguir a la moda
+subtitle: En esta cuarenten puedes protegerte y seguir a la moda W
 image: img/marcas_moda_coronavirus_mascarillas.jpg
 blurb:
   heading: Te cuidamos
